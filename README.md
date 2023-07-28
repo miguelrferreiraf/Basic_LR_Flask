@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="flask" width="40%" height="40%">
 
-Teste básico do Flask framework para deploy de uma aplicação web com uma regressão linear
+Teste básico do Flask framework para deploy de uma **aplicação web** com uma *regressão linear*.
 
 O Flask dispõe de um instrumento muito simples para renderizar templates de arquivos html, o comando ```render_template```, que é muito simples de usar. 
 
