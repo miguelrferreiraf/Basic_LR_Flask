@@ -15,7 +15,9 @@ def home():
 
 No código acima temos uma função para a rota ```home``` que retorna o template ```home.html``` da pasta 'templates'. Aperece ainda em outra ocasião:
 
-```return render_template('predict.html',prediction=model_prediction)```
+```
+return render_template('predict.html',prediction=model_prediction)
+```
 
 No caso acima, este ```return``` ocorre após uma requisição ```GET``` no HTTP que gera uma rota da página 'home' para a página 'predict'.
 
