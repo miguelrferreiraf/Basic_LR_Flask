@@ -1,5 +1,7 @@
 # basic_LR_Flask (teste básico)
 
+(not available in english)
+
 <img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="flask" width="40%" height="40%">
 
 Teste básico do Flask framework para deploy de uma aplicação web com uma regressão linear
